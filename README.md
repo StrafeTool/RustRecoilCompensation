@@ -1,2 +1,2 @@
 # RustRecoilCompensation
-# <img alt="AK" src="https://i.imgur.com/yGETfSw.png">
+# <img alt="AK" src="https://imgur.com/a/lEBhe6T">
