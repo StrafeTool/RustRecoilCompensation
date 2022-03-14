@@ -1,7 +1,7 @@
 # <img alt="AK" src="https://i.imgur.com/yGETfSw.png">
 
 ## Resources:
-Undetected mouse input  
+Mouse input  
 https://github.com/ekknod/logitech-cve  
 The base for the script  
 https://github.com/randyshanks/Rust-Recoil-Script-Cpp  
