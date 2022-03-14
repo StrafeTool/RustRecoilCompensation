@@ -1,0 +1,7 @@
+﻿  mouse.c
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1577 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  uc.vcxproj -> E:\Microsoft Visual Studio\repos\uc\x64\Release\uc.exe
